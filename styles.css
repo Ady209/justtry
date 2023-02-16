@@ -1,0 +1,96 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.just{
+  margin-left: 500px;
+}
+
+.container {
+  border: 6px solid black;
+  width: 1000px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nerko One', cursive;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+  color: #515151;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin: -60px 0 0 65px;
+
+}
+
+.name {
+  margin: 200px 0 0 0;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#name-devon {
+  font-size: 70px;
+}
+
+.contact-section,
+.skills-section {
+  margin: 50px 0 0 80px;
+}
+
+.marks-dots {
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin-bottom: 20px;
+}
+
+.dots {
+  margin-bottom: 10px;
+}
+
+.right-side {
+  margin: 0px 80px;
+}
+
+.this {
+  margin: 0 0 45px 0;
+}
+
+.personal-details {
+  margin-left: 20px;
+}
+
+#bottom-image {
+  margin-top: -580px;
+  margin-left: 917px;
+  height: 600px;
+  width: 60px;
+
+}
+
+#top-image {
+  width: 500px;
+  margin-top: -100px;
+  margin-left: -48px;
+}
+
+#image-shap2 {
+  margin-top: -290px;
+  margin-left: -5px;
+  height: 400px;
+  width: 500px;
+
+}
